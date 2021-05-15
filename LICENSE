@@ -658,4 +658,8 @@ specific requirements.
   You should also get your employer (if you work as a programmer) or school,
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
+<<<<<<< HEAD
 <https://www.gnu.org/licenses/>.
+=======
+<https://www.gnu.org/licenses/>.
+>>>>>>> 13eed145b69a06b35a195d255ee8f65328f03b43

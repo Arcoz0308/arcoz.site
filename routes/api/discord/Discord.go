@@ -1,8 +1,8 @@
 package discord
 
 import (
-	"arcoz.dev/api/Utils"
 	"arcoz.dev/api/routes/api"
+	"arcoz.dev/api/utils"
 	"fmt"
 	"github.com/gorilla/mux"
 	"io/ioutil"
@@ -23,7 +23,7 @@ func getUser(w http.ResponseWriter, r *http.Request) {
 		api.SendInternalError(w)
 		return
 	}
-	req.Header.Add("Authorization", "Bot "+Utils.Config.Token)
+	req.Header.Add("Authorization", "Bot "+utils.Config.Token)
 	response, err := client.Do(req)
 	if err != nil {
 		fmt.Print(err)

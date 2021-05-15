@@ -1,8 +1,8 @@
 package main
 
 import (
-	"arcoz.dev/api/Utils"
 	"arcoz.dev/api/routes"
+	"arcoz.dev/api/utils"
 	"log"
 	"net/http"
 )
@@ -12,7 +12,7 @@ var (
 )
 
 func main() {
-	Utils.LoadConfig()
+	utils.LoadConfig()
 	server = http.Server{
 		Addr:    ":80",
 		Handler: routes.Init(),
