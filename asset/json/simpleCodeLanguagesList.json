@@ -1,0 +1,1396 @@
+{
+  "1c enterprise": {},
+  "4d": {},
+  "abap": {},
+  "abap cds": {},
+  "abnf": {},
+  "ags script": {
+    "aliases": [
+      "ags"
+    ]
+  },
+  "aidl": {},
+  "al": {},
+  "ampl": {},
+  "antlr": {},
+  "api blueprint": {},
+  "apl": {},
+  "asl": {},
+  "asn.1": {},
+  "asp.net": {
+    "aliases": [
+      "aspx",
+      "aspx-vb"
+    ]
+  },
+  "ats": {
+    "aliases": [
+      "ats2"
+    ]
+  },
+  "actionscript": {
+    "aliases": [
+      "actionscript 3",
+      "actionscript3",
+      "as3"
+    ]
+  },
+  "ada": {
+    "aliases": [
+      "ada95",
+      "ada2005"
+    ]
+  },
+  "adobe font metrics": {
+    "aliases": [
+      "acfm",
+      "adobe composite font metrics",
+      "adobe multiple font metrics",
+      "amfm"
+    ]
+  },
+  "agda": {},
+  "alloy": {},
+  "alpine abuild": {
+    "aliases": [
+      "abuild",
+      "apkbuild"
+    ]
+  },
+  "altium designer": {
+    "aliases": [
+      "altium"
+    ]
+  },
+  "angelscript": {},
+  "ant build system": {},
+  "apacheconf": {
+    "aliases": [
+      "aconf",
+      "apache"
+    ]
+  },
+  "apex": {},
+  "apollo guidance computer": {},
+  "applescript": {
+    "aliases": [
+      "osascript"
+    ]
+  },
+  "arc": {},
+  "asciidoc": {},
+  "aspectj": {},
+  "assembly": {
+    "aliases": [
+      "asm",
+      "nasm"
+    ]
+  },
+  "asymptote": {},
+  "augeas": {},
+  "autohotkey": {
+    "aliases": [
+      "ahk"
+    ]
+  },
+  "autoit": {
+    "aliases": [
+      "au3",
+      "autoit3",
+      "autoitscript"
+    ]
+  },
+  "avro idl": {},
+  "awk": {},
+  "basic": {},
+  "ballerina": {},
+  "batchfile": {
+    "aliases": [
+      "bat",
+      "batch",
+      "dosbatch",
+      "winbatch"
+    ]
+  },
+  "beef": {},
+  "befunge": {},
+  "bibtex": {},
+  "bicep": {},
+  "bison": {},
+  "bitbake": {},
+  "blade": {},
+  "blitzbasic": {
+    "aliases": [
+      "b3d",
+      "blitz3d",
+      "blitzplus",
+      "bplus"
+    ]
+  },
+  "blitzmax": {
+    "aliases": [
+      "bmax"
+    ]
+  },
+  "bluespec": {},
+  "boo": {},
+  "boogie": {},
+  "brainfuck": {},
+  "brightscript": {},
+  "browserslist": {},
+  "c": {},
+  "c#": {
+    "aliases": [
+      "csharp",
+      "cake",
+      "cakescript"
+    ]
+  },
+  "c++": {
+    "aliases": [
+      "cpp"
+    ]
+  },
+  "c-objdump": {},
+  "c2hs haskell": {
+    "aliases": [
+      "c2hs"
+    ]
+  },
+  "cil": {},
+  "clips": {},
+  "cmake": {},
+  "cobol": {},
+  "codeowners": {},
+  "collada": {},
+  "cson": {},
+  "css": {},
+  "csv": {},
+  "cue": {},
+  "cweb": {},
+  "cabal config": {
+    "aliases": [
+      "cabal"
+    ]
+  },
+  "cap'n proto": {},
+  "cartocss": {
+    "aliases": [
+      "carto"
+    ]
+  },
+  "ceylon": {},
+  "chapel": {
+    "aliases": [
+      "chpl"
+    ]
+  },
+  "charity": {},
+  "chuck": {},
+  "cirru": {},
+  "clarion": {},
+  "classic asp": {
+    "aliases": [
+      "asp"
+    ]
+  },
+  "clean": {},
+  "click": {},
+  "clojure": {},
+  "closure templates": {
+    "aliases": [
+      "soy"
+    ]
+  },
+  "cloud firestore security rules": {},
+  "conll-u": {
+    "aliases": [
+      "conll",
+      "conll-x"
+    ]
+  },
+  "codeql": {
+    "aliases": [
+      "ql"
+    ]
+  },
+  "coffeescript": {
+    "aliases": [
+      "coffee",
+      "coffee-script"
+    ]
+  },
+  "coldfusion": {
+    "aliases": [
+      "cfm",
+      "cfml",
+      "coldfusion html"
+    ]
+  },
+  "coldfusion cfc": {
+    "aliases": [
+      "cfc"
+    ]
+  },
+  "common lisp": {
+    "aliases": [
+      "lisp"
+    ]
+  },
+  "common workflow language": {
+    "aliases": [
+      "cwl"
+    ]
+  },
+  "component pascal": {},
+  "cool": {},
+  "coq": {},
+  "cpp-objdump": {
+    "aliases": [
+      "c++-objdump"
+    ]
+  },
+  "creole": {},
+  "crystal": {},
+  "csound": {
+    "aliases": [
+      "csound-orc"
+    ]
+  },
+  "csound document": {
+    "aliases": [
+      "csound-csd"
+    ]
+  },
+  "csound score": {
+    "aliases": [
+      "csound-sco"
+    ]
+  },
+  "cuda": {},
+  "cue sheet": {},
+  "cycript": {},
+  "cython": {
+    "aliases": [
+      "pyrex"
+    ]
+  },
+  "d": {
+    "aliases": [
+      "dlang"
+    ]
+  },
+  "d-objdump": {},
+  "digital command language": {
+    "aliases": [
+      "dcl"
+    ]
+  },
+  "dm": {
+    "aliases": [
+      "byond"
+    ]
+  },
+  "dns zone": {},
+  "dtrace": {
+    "aliases": [
+      "dtrace-script"
+    ]
+  },
+  "dafny": {},
+  "darcs patch": {
+    "aliases": [
+      "dpatch"
+    ]
+  },
+  "dart": {},
+  "dataweave": {},
+  "dhall": {},
+  "diff": {
+    "aliases": [
+      "udiff"
+    ]
+  },
+  "directx 3d file": {},
+  "dockerfile": {},
+  "dogescript": {},
+  "dylan": {},
+  "e": {},
+  "ebnf": {},
+  "ecl": {},
+  "eclipse": {},
+  "ejs": {},
+  "eml": {},
+  "eq": {},
+  "eagle": {},
+  "easybuild": {},
+  "ecere projects": {},
+  "editorconfig": {
+    "aliases": [
+      "editor-config"
+    ]
+  },
+  "edje data collection": {},
+  "eiffel": {},
+  "elixir": {},
+  "elm": {},
+  "emacs lisp": {
+    "aliases": [
+      "elisp",
+      "emacs"
+    ]
+  },
+  "emberscript": {},
+  "erlang": {},
+  "f#": {
+    "aliases": [
+      "fsharp"
+    ]
+  },
+  "f*": {
+    "aliases": [
+      "fstar"
+    ]
+  },
+  "figlet font": {
+    "aliases": [
+      "figfont"
+    ]
+  },
+  "flux": {},
+  "factor": {},
+  "fancy": {},
+  "fantom": {},
+  "faust": {},
+  "filebench wml": {},
+  "filterscript": {},
+  "formatted": {},
+  "forth": {},
+  "fortran": {},
+  "fortran free form": {},
+  "freebasic": {
+    "aliases": [
+      "fb"
+    ]
+  },
+  "freemarker": {
+    "aliases": [
+      "ftl"
+    ]
+  },
+  "frege": {},
+  "futhark": {},
+  "g-code": {},
+  "gaml": {},
+  "gams": {},
+  "gap": {},
+  "gcc machine description": {},
+  "gdb": {},
+  "gdscript": {},
+  "gedcom": {},
+  "glsl": {},
+  "gn": {},
+  "game maker language": {},
+  "gemfile.lock": {},
+  "genie": {},
+  "genshi": {
+    "aliases": [
+      "xml+genshi",
+      "xml+kid"
+    ]
+  },
+  "gentoo ebuild": {},
+  "gentoo eclass": {},
+  "gerber image": {
+    "aliases": [
+      "rs-274x"
+    ]
+  },
+  "gettext catalog": {
+    "aliases": [
+      "pot"
+    ]
+  },
+  "gherkin": {
+    "aliases": [
+      "cucumber"
+    ]
+  },
+  "git attributes": {
+    "aliases": [
+      "gitattributes"
+    ]
+  },
+  "git config": {
+    "aliases": [
+      "gitconfig",
+      "gitmodules"
+    ]
+  },
+  "glyph": {},
+  "glyph bitmap distribution format": {},
+  "gnuplot": {},
+  "go": {
+    "aliases": [
+      "golang"
+    ]
+  },
+  "golo": {},
+  "gosu": {},
+  "grace": {},
+  "gradle": {},
+  "grammatical framework": {
+    "aliases": [
+      "gf"
+    ]
+  },
+  "graph modeling language": {},
+  "graphql": {},
+  "graphviz (dot)": {},
+  "groovy": {},
+  "groovy server pages": {
+    "aliases": [
+      "gsp",
+      "java server page"
+    ]
+  },
+  "haproxy": {},
+  "hcl": {
+    "aliases": [
+      "hashicorp configuration language",
+      "terraform"
+    ]
+  },
+  "hlsl": {},
+  "html": {
+    "aliases": [
+      "xhtml"
+    ]
+  },
+  "html+ecr": {
+    "aliases": [
+      "ecr"
+    ]
+  },
+  "html+eex": {
+    "aliases": [
+      "eex",
+      "leex"
+    ]
+  },
+  "html+erb": {
+    "aliases": [
+      "erb",
+      "rhtml",
+      "html+ruby"
+    ]
+  },
+  "html+php": {},
+  "html+razor": {
+    "aliases": [
+      "razor"
+    ]
+  },
+  "http": {},
+  "hxml": {},
+  "hack": {},
+  "haml": {},
+  "handlebars": {
+    "aliases": [
+      "hbs",
+      "htmlbars"
+    ]
+  },
+  "harbour": {},
+  "haskell": {},
+  "haxe": {},
+  "hiveql": {},
+  "holyc": {},
+  "hy": {
+    "aliases": [
+      "hylang"
+    ]
+  },
+  "hyphy": {},
+  "idl": {},
+  "igor pro": {
+    "aliases": [
+      "igor",
+      "igorpro"
+    ]
+  },
+  "ini": {
+    "aliases": [
+      "dosini"
+    ]
+  },
+  "irc log": {
+    "aliases": [
+      "irc",
+      "irc logs"
+    ]
+  },
+  "idris": {},
+  "ignore list": {
+    "aliases": [
+      "ignore",
+      "gitignore",
+      "git-ignore"
+    ]
+  },
+  "imagej macro": {
+    "aliases": [
+      "ijm"
+    ]
+  },
+  "inform 7": {
+    "aliases": [
+      "i7",
+      "inform7"
+    ]
+  },
+  "inno setup": {},
+  "io": {},
+  "ioke": {},
+  "isabelle": {},
+  "isabelle root": {},
+  "j": {},
+  "jflex": {},
+  "json": {},
+  "json with comments": {
+    "aliases": [
+      "jsonc"
+    ]
+  },
+  "json5": {},
+  "jsonld": {},
+  "jsoniq": {},
+  "jasmin": {},
+  "java": {},
+  "java properties": {},
+  "java server pages": {
+    "aliases": [
+      "jsp"
+    ]
+  },
+  "javascript": {
+    "aliases": [
+      "js",
+      "node"
+    ]
+  },
+  "javascript+erb": {},
+  "jinja": {
+    "aliases": [
+      "django",
+      "html+django",
+      "html+jinja",
+      "htmldjango"
+    ]
+  },
+  "jison": {},
+  "jison lex": {},
+  "jolie": {},
+  "jsonnet": {},
+  "julia": {},
+  "jupyter notebook": {
+    "aliases": [
+      "ipython notebook"
+    ]
+  },
+  "krl": {},
+  "kaitai struct": {
+    "aliases": [
+      "ksy"
+    ]
+  },
+  "kicad layout": {
+    "aliases": [
+      "pcbnew"
+    ]
+  },
+  "kicad legacy layout": {},
+  "kicad schematic": {
+    "aliases": [
+      "eeschema schematic"
+    ]
+  },
+  "kit": {},
+  "kotlin": {},
+  "kusto": {},
+  "lfe": {},
+  "llvm": {},
+  "lolcode": {},
+  "lsl": {},
+  "ltspice symbol": {},
+  "labview": {},
+  "lark": {},
+  "lasso": {
+    "aliases": [
+      "lassoscript"
+    ]
+  },
+  "latte": {},
+  "lean": {},
+  "less": {},
+  "lex": {
+    "aliases": [
+      "flex"
+    ]
+  },
+  "lilypond": {},
+  "limbo": {},
+  "linker script": {},
+  "linux kernel module": {},
+  "liquid": {},
+  "literate agda": {},
+  "literate coffeescript": {
+    "aliases": [
+      "litcoffee"
+    ]
+  },
+  "literate haskell": {
+    "aliases": [
+      "lhaskell",
+      "lhs"
+    ]
+  },
+  "livescript": {
+    "aliases": [
+      "live-script",
+      "ls"
+    ]
+  },
+  "logos": {},
+  "logtalk": {},
+  "lookml": {},
+  "loomscript": {},
+  "lua": {},
+  "m": {
+    "aliases": [
+      "mumps"
+    ]
+  },
+  "m4": {},
+  "m4sugar": {
+    "aliases": [
+      "autoconf"
+    ]
+  },
+  "matlab": {
+    "aliases": [
+      "octave"
+    ]
+  },
+  "maxscript": {},
+  "mlir": {},
+  "mql4": {},
+  "mql5": {},
+  "mtml": {},
+  "muf": {},
+  "macaulay2": {
+    "aliases": [
+      "m2"
+    ]
+  },
+  "makefile": {
+    "aliases": [
+      "bsdmake",
+      "make",
+      "mf"
+    ]
+  },
+  "mako": {},
+  "markdown": {
+    "aliases": [
+      "pandoc"
+    ]
+  },
+  "marko": {
+    "aliases": [
+      "markojs"
+    ]
+  },
+  "mask": {},
+  "mathematica": {
+    "aliases": [
+      "mma",
+      "wolfram",
+      "wolfram language",
+      "wolfram lang",
+      "wl"
+    ]
+  },
+  "maven pom": {},
+  "max": {
+    "aliases": [
+      "max/msp",
+      "maxmsp"
+    ]
+  },
+  "mercury": {},
+  "meson": {},
+  "metal": {},
+  "microsoft developer studio project": {},
+  "microsoft visual studio solution": {},
+  "minid": {},
+  "mirah": {},
+  "modelica": {},
+  "modula-2": {},
+  "modula-3": {},
+  "module management system": {},
+  "monkey": {},
+  "moocode": {},
+  "moonscript": {},
+  "motorola 68k assembly": {
+    "aliases": [
+      "m68k"
+    ]
+  },
+  "muse": {
+    "aliases": [
+      "amusewiki",
+      "emacs muse"
+    ]
+  },
+  "mustache": {},
+  "myghty": {},
+  "nasl": {},
+  "ncl": {},
+  "neon": {
+    "aliases": [
+      "nette object notation",
+      "ne-on"
+    ]
+  },
+  "nl": {},
+  "npm config": {
+    "aliases": [
+      "npmrc"
+    ]
+  },
+  "nsis": {},
+  "nwscript": {},
+  "nearley": {},
+  "nemerle": {},
+  "netlinx": {},
+  "netlinx+erb": {},
+  "netlogo": {},
+  "newlisp": {},
+  "nextflow": {},
+  "nginx": {
+    "aliases": [
+      "nginx configuration file"
+    ]
+  },
+  "nim": {},
+  "ninja": {},
+  "nit": {},
+  "nix": {
+    "aliases": [
+      "nixos"
+    ]
+  },
+  "nu": {
+    "aliases": [
+      "nush"
+    ]
+  },
+  "numpy": {},
+  "nunjucks": {
+    "aliases": [
+      "njk"
+    ]
+  },
+  "ocaml": {},
+  "objdump": {},
+  "object data instance notation": {},
+  "objectscript": {},
+  "objective-c": {
+    "aliases": [
+      "obj-c",
+      "objc",
+      "objectivec"
+    ]
+  },
+  "objective-c++": {
+    "aliases": [
+      "obj-c++",
+      "objc++",
+      "objectivec++"
+    ]
+  },
+  "objective-j": {
+    "aliases": [
+      "obj-j",
+      "objectivej",
+      "objj"
+    ]
+  },
+  "odin": {
+    "aliases": [
+      "odinlang",
+      "odin-lang"
+    ]
+  },
+  "omgrofl": {},
+  "opa": {},
+  "opal": {},
+  "open policy agent": {},
+  "opencl": {},
+  "openedge abl": {
+    "aliases": [
+      "progress",
+      "openedge",
+      "abl"
+    ]
+  },
+  "openqasm": {},
+  "openrc runscript": {
+    "aliases": [
+      "openrc"
+    ]
+  },
+  "openscad": {},
+  "openstep property list": {},
+  "opentype feature file": {
+    "aliases": [
+      "afdko"
+    ]
+  },
+  "org": {},
+  "ox": {},
+  "oxygene": {},
+  "oz": {},
+  "p4": {},
+  "php": {
+    "aliases": [
+      "inc"
+    ]
+  },
+  "plsql": {},
+  "plpgsql": {},
+  "pov-ray sdl": {
+    "aliases": [
+      "pov-ray",
+      "povray"
+    ]
+  },
+  "pan": {},
+  "papyrus": {},
+  "parrot": {},
+  "parrot assembly": {
+    "aliases": [
+      "pasm"
+    ]
+  },
+  "parrot internal representation": {
+    "aliases": [
+      "pir"
+    ]
+  },
+  "pascal": {
+    "aliases": [
+      "delphi",
+      "objectpascal"
+    ]
+  },
+  "pawn": {},
+  "pep8": {},
+  "perl": {
+    "aliases": [
+      "cperl"
+    ]
+  },
+  "pic": {},
+  "pickle": {},
+  "picolisp": {},
+  "piglatin": {},
+  "pike": {},
+  "plantuml": {},
+  "pod": {},
+  "pod 6": {},
+  "pogoscript": {},
+  "pony": {},
+  "postcss": {},
+  "postscript": {
+    "aliases": [
+      "postscr"
+    ]
+  },
+  "powerbuilder": {},
+  "powershell": {
+    "aliases": [
+      "posh",
+      "pwsh"
+    ]
+  },
+  "prisma": {},
+  "processing": {},
+  "proguard": {},
+  "prolog": {},
+  "propeller spin": {},
+  "protocol buffer": {
+    "aliases": [
+      "protobuf",
+      "protocol buffers"
+    ]
+  },
+  "public key": {},
+  "pug": {},
+  "puppet": {},
+  "pure data": {},
+  "purebasic": {},
+  "purescript": {},
+  "python": {
+    "aliases": [
+      "python3",
+      "rusthon"
+    ]
+  },
+  "python console": {
+    "aliases": [
+      "pycon"
+    ]
+  },
+  "python traceback": {},
+  "q#": {
+    "aliases": [
+      "qsharp"
+    ]
+  },
+  "qml": {},
+  "qmake": {},
+  "qt script": {},
+  "quake": {},
+  "r": {
+    "aliases": [
+      "r",
+      "rscript",
+      "splus"
+    ]
+  },
+  "raml": {},
+  "rdoc": {},
+  "realbasic": {},
+  "rexx": {
+    "aliases": [
+      "arexx"
+    ]
+  },
+  "rmarkdown": {},
+  "rpc": {
+    "aliases": [
+      "rpcgen",
+      "oncrpc",
+      "xdr"
+    ]
+  },
+  "rpm spec": {
+    "aliases": [
+      "specfile"
+    ]
+  },
+  "runoff": {},
+  "racket": {},
+  "ragel": {
+    "aliases": [
+      "ragel-rb",
+      "ragel-ruby"
+    ]
+  },
+  "raku": {
+    "aliases": [
+      "perl6",
+      "perl-6"
+    ]
+  },
+  "rascal": {},
+  "raw token data": {
+    "aliases": [
+      "raw"
+    ]
+  },
+  "rescript": {},
+  "readline config": {
+    "aliases": [
+      "inputrc",
+      "readline"
+    ]
+  },
+  "reason": {},
+  "rebol": {},
+  "record jar": {},
+  "red": {
+    "aliases": [
+      "red/system"
+    ]
+  },
+  "redcode": {},
+  "redirect rules": {
+    "aliases": [
+      "redirects"
+    ]
+  },
+  "regular expression": {
+    "aliases": [
+      "regexp",
+      "regex"
+    ]
+  },
+  "ren'py": {
+    "aliases": [
+      "renpy"
+    ]
+  },
+  "renderscript": {},
+  "rich text format": {},
+  "ring": {},
+  "riot": {},
+  "robotframework": {},
+  "roff": {
+    "aliases": [
+      "groff",
+      "man",
+      "manpage",
+      "man page",
+      "man-page",
+      "mdoc",
+      "nroff",
+      "troff"
+    ]
+  },
+  "roff manpage": {},
+  "rouge": {},
+  "ruby": {
+    "aliases": [
+      "jruby",
+      "macruby",
+      "rake",
+      "rb",
+      "rbx"
+    ]
+  },
+  "rust": {
+    "aliases": [
+      "rs"
+    ]
+  },
+  "sas": {},
+  "scss": {},
+  "selinux policy": {
+    "aliases": [
+      "selinux kernel policy language",
+      "sepolicy"
+    ]
+  },
+  "smt": {},
+  "sparql": {},
+  "sqf": {},
+  "sql": {},
+  "sqlpl": {},
+  "srecode template": {},
+  "ssh config": {},
+  "ston": {},
+  "svg": {},
+  "swig": {},
+  "sage": {},
+  "saltstack": {
+    "aliases": [
+      "saltstate",
+      "salt"
+    ]
+  },
+  "sass": {},
+  "scala": {},
+  "scaml": {},
+  "scheme": {},
+  "scilab": {},
+  "self": {},
+  "shaderlab": {},
+  "shell": {
+    "aliases": [
+      "sh",
+      "shell-script",
+      "bash",
+      "zsh"
+    ]
+  },
+  "shellsession": {
+    "aliases": [
+      "bash session",
+      "console"
+    ]
+  },
+  "shen": {},
+  "sieve": {},
+  "singularity": {},
+  "slash": {},
+  "slice": {},
+  "slim": {},
+  "smpl": {
+    "aliases": [
+      "coccinelle"
+    ]
+  },
+  "smali": {},
+  "smalltalk": {
+    "aliases": [
+      "squeak"
+    ]
+  },
+  "smarty": {},
+  "solidity": {},
+  "soong": {},
+  "sourcepawn": {
+    "aliases": [
+      "sourcemod"
+    ]
+  },
+  "spline font database": {},
+  "squirrel": {},
+  "stan": {},
+  "standard ml": {
+    "aliases": [
+      "sml"
+    ]
+  },
+  "starlark": {
+    "aliases": [
+      "bazel",
+      "bzl"
+    ]
+  },
+  "stata": {},
+  "stringtemplate": {},
+  "stylus": {},
+  "subrip text": {},
+  "sugarss": {},
+  "supercollider": {},
+  "svelte": {},
+  "swift": {},
+  "systemverilog": {},
+  "ti program": {},
+  "tla": {},
+  "toml": {},
+  "tsql": {},
+  "tsv": {},
+  "tsx": {},
+  "txl": {},
+  "tcl": {},
+  "tcsh": {},
+  "tex": {
+    "aliases": [
+      "latex"
+    ]
+  },
+  "tea": {},
+  "terra": {},
+  "texinfo": {},
+  "text": {
+    "aliases": [
+      "fundamental",
+      "plain text"
+    ]
+  },
+  "textile": {},
+  "thrift": {},
+  "turing": {},
+  "turtle": {},
+  "twig": {},
+  "type language": {
+    "aliases": [
+      "tl"
+    ]
+  },
+  "typescript": {
+    "aliases": [
+      "ts"
+    ]
+  },
+  "unified parallel c": {},
+  "unity3d asset": {},
+  "unix assembly": {},
+  "uno": {},
+  "unrealscript": {},
+  "urweb": {
+    "aliases": [
+      "ur/web",
+      "ur"
+    ]
+  },
+  "v": {
+    "aliases": [
+      "vlang"
+    ]
+  },
+  "vba": {
+    "aliases": [
+      "vb6",
+      "visual basic 6",
+      "visual basic for applications"
+    ]
+  },
+  "vbscript": {},
+  "vcl": {},
+  "vhdl": {},
+  "vala": {},
+  "verilog": {},
+  "vim help file": {
+    "aliases": [
+      "vimhelp"
+    ]
+  },
+  "vim snippet": {
+    "aliases": [
+      "snipmate",
+      "ultisnip",
+      "ultisnips",
+      "neosnippet"
+    ]
+  },
+  "vim script": {
+    "aliases": [
+      "vim",
+      "viml",
+      "nvim"
+    ]
+  },
+  "visual basic .net": {
+    "aliases": [
+      "visual basic",
+      "vbnet",
+      "vb .net",
+      "vb.net"
+    ]
+  },
+  "volt": {},
+  "vue": {},
+  "wavefront material": {},
+  "wavefront object": {},
+  "web ontology language": {},
+  "webassembly": {
+    "aliases": [
+      "wast",
+      "wasm"
+    ]
+  },
+  "webidl": {},
+  "webvtt": {},
+  "wget config": {
+    "aliases": [
+      "wgetrc"
+    ]
+  },
+  "wikitext": {
+    "aliases": [
+      "mediawiki",
+      "wiki"
+    ]
+  },
+  "windows registry entries": {},
+  "wollok": {},
+  "world of warcraft addon data": {},
+  "x bitmap": {
+    "aliases": [
+      "xbm"
+    ]
+  },
+  "x font directory index": {},
+  "x pixmap": {
+    "aliases": [
+      "xpm"
+    ]
+  },
+  "x10": {
+    "aliases": [
+      "xten"
+    ]
+  },
+  "xc": {},
+  "xcompose": {},
+  "xml": {
+    "aliases": [
+      "rss",
+      "xsd",
+      "wsdl"
+    ]
+  },
+  "xml property list": {},
+  "xpages": {},
+  "xproc": {},
+  "xquery": {},
+  "xs": {},
+  "xslt": {
+    "aliases": [
+      "xsl"
+    ]
+  },
+  "xojo": {},
+  "xonsh": {},
+  "xtend": {},
+  "yaml": {
+    "aliases": [
+      "yml"
+    ]
+  },
+  "yang": {},
+  "yara": {},
+  "yasnippet": {
+    "aliases": [
+      "snippet",
+      "yas"
+    ]
+  },
+  "yacc": {},
+  "zap": {},
+  "zil": {},
+  "zeek": {
+    "aliases": [
+      "bro"
+    ]
+  },
+  "zenscript": {},
+  "zephir": {},
+  "zig": {},
+  "zimpl": {},
+  "curl config": {
+    "aliases": [
+      "curlrc"
+    ]
+  },
+  "desktop": {},
+  "dircolors": {},
+  "ec": {},
+  "edn": {},
+  "fish": {},
+  "jq": {},
+  "mirc script": {},
+  "mcfunction": {},
+  "mupad": {},
+  "nanorc": {},
+  "nesc": {},
+  "ooc": {},
+  "q": {},
+  "restructuredtext": {
+    "aliases": [
+      "rst"
+    ]
+  },
+  "robots.txt": {
+    "aliases": [
+      "robots",
+      "robots txt"
+    ]
+  },
+  "sed": {},
+  "wdl": {},
+  "wisp": {},
+  "xbase": {
+    "aliases": [
+      "advpl",
+      "clipper",
+      "foxpro"
+    ]
+  }
+}
